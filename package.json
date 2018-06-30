@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "name": "first_proj",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artemiy terekhov",
+  "license": "ISC"
+}
